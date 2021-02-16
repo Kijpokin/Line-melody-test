@@ -1,4 +1,4 @@
-# Project-boilorplate
+# Project-boilerplate
 
 React-boilerplate based on Create react app integrate with eslint, testing, emotion and react-query with typescript
 
