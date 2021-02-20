@@ -17,8 +17,12 @@ type Friend = {
 const ListWrapper = styled.div`
   padding: 16px 0;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 24px;
+  
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
 `
 
 const Error = styled.h3`
