@@ -26,7 +26,7 @@ This project was built upon [Create React App (CRA)](https://github.com/facebook
 2. [NVM](https://github.com/nvm-sh/nvm) - `Node.js` version control.
 3. [Yarn](https://yarnpkg.com/) - `Node.js` package manager.
 
-Once you all required dependencies are install run,
+Once you all required dependencies are installed run,
 
 ```shell
 $ yarn
