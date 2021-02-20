@@ -22,6 +22,12 @@ const ListWrapper = styled.div`
 `
 
 const Error = styled.h3`
+  position: fixed;
+  background: white;
+  width: 100%;
+  margin: 0;
+  padding: 16px;
+  bottom: 0;
   color: red;
 `
 
