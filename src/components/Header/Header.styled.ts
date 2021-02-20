@@ -6,6 +6,6 @@ export const Wrapper = styled.div`
   align-items: center;
 
   min-height: 100px;
-  background: black;
-  color: white;
+  background: #00b900;
+  color: #ffffff;
 `

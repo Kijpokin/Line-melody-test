@@ -15,7 +15,7 @@ describe('<Header />', () => {
     const mockProps = {
       children: 'Mock text',
     }
-    const { container, getByText } = render(<Header {...mockProps} />)
+    const { getByText } = render(<Header {...mockProps} />)
     expect(getByText('Mock text')).toBeInTheDocument()
   })
 })

@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-  baseURL: 'https://run.mocky.io/v3',
+  baseURL: process.env.REACT_APP_ENDPOINT_API,
 })
 
 export default instance
