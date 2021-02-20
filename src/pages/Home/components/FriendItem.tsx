@@ -14,6 +14,10 @@ const Wrapper = styled.div`
   cursor: pointer;
   border: 2px solid #eeeeee;
   border-radius: 4px;
+
+  &:hover {
+    background: #eeeeee;
+  }
 `
 
 const Img = styled.img`
