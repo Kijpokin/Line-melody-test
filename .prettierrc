@@ -3,6 +3,5 @@
   "singleQuote": true,
   "bracketSpacing": true,
   "printWidth": 120,
-  "trailingComma": "all",
-  "endOfLine": "lf"
+  "trailingComma": "all"
 }

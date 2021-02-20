@@ -1,6 +1,6 @@
 import Home from '@pages/Home'
 import React from 'react'
-import { QueryClient, QueryClientProvider } from 'react-query'
+import {QueryClient, QueryClientProvider } from 'react-query'
 import './App.css'
 
 const queryClient = new QueryClient({
